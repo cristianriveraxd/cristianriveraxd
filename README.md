@@ -1,10 +1,4 @@
-<h1 align="center">Hey 👋 que hay de nuevo?</h1>
-
-###
-
-<br clear="both">
-
-<p align="center">Mi nombre es Cristian Rivera y soy de Colombia</p>
+<h1 align="center">Hey 👋 soy Cristian</h1>
 
 ###
 
@@ -12,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creando errores desde mi primera línea de codigo.<br>📚 Actualmente estoy aprendiendo sobre RPA, servidores, sistemas operativos basados en debian y algo de diseño web.<br>🎯 Metas: Terminar mi carrera de ingeniería en sistemas 🎓(cursando 6to semestre), crecer en el sector tecnológico y dominar un nuevo lenguaje<br>🎲  Dato curioso: En Python, el nombre del lenguaje no proviene de la serpiente, sino de la afición de su creador, Guido van Rossum, por la comedia británica Monty Python. Monty Python fue un grupo de comediantes británicos famoso por su programa de televisión llamado "Monty Python's Flying Circus", que se emitió en la década de 1970. El humor de Monty Python se caracterizó por ser absurdo, inteligente y a menudo irónico.<br>📗 Aun tengo mucho por aprender, pero aprendo facil y soy un gran aficionado por todo lo relacionado a la tecnologia.<br>📫 No olvides ponerte en contacto conmigo cerivera005@gmail.com</p>
+<p align="left">✨ Creando errores desde mi primera línea de codigo.<br>📚 Actualmente estoy aprendiendo sobre RPA, servidores, sistemas operativos basados en debian y algo de diseño web.<br>🎯 Metas: Terminar mi carrera de ingeniería en sistemas 🎓(cursando 6to semestre), crecer en el sector tecnológico y dominar un nuevo lenguaje<br>🎲  Dato curioso: En Python, el nombre del lenguaje no proviene de la serpiente, sino de la afición de su creador, Guido van Rossum, por la comedia británica Monty Python. Monty Python fue un grupo de comediantes británicos famoso por su programa de televisión llamado "Monty Python's Flying Circus", que se emitió en la década de 1970. El humor de Monty Python se caracterizó por ser absurdo, inteligente y a menudo irónico.<br>📗 Aun tengo mucho por aprender, pero aprendo facil y soy un gran aficionado por todo lo relacionado a la tecnologia.<br>📫 No olvides ponerte en contacto conmigo <a href="cerivera005@gmail.com">cerivera005@gmail.com</a> o en visitar mi perfil en <a href="https://www.linkedin.com/in/cristian-eduardo-rivera-ardila-81ba2a1b1/" rel="nofollow">linkedin</a></p>
 
 ###
 
@@ -41,14 +35,7 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vmgrbpsmgfr2fvcokvic7znj7m)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=31vmgrbpsmgfr2fvcokvic7znj7m)&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+<h2 align="left">Por ultimo!</h2>
 
 <p align="left">No olvides visitar mi pagina <link> donde podras encontrar mas información personal y mis proyectos personales.</p>
 
