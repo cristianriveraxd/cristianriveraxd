@@ -1,18 +1,14 @@
-<h1 align="center">Hey 👋 soy Cristian</h1>
+## ¡Ey! Soy Cristian 👋
 
-###
+### Sobre mí
 
-<h2 align="left">Sobre mí</h2>
+- 🟡 Creando soluciones desde mi primera línea de código.
+- 📚 Actualmente explorando vision computacional, servidores, sistemas operativos basados en Debian y diseño web. 
+- 🧉 Estudiante de ingeniería en sistemas (7mo semestre).
+- 📗 Metas: Completar mi carrera universitaria, crecer profesionalmente en el sector tecnológico y dominar nuevas tecnologías.
+- 🐍 Dato curioso: En Python, el nombre del lenguaje no proviene de la serpiente, sino de la comedia británica Monty Python.
 
-###
-
-<p align="left">✨ Creando errores desde mi primera línea de codigo.<br>📚 Actualmente estoy aprendiendo sobre vision computacional, servidores, sistemas operativos basados en debian y algo de diseño web.<br>🎯 Metas: Terminar mi carrera de ingeniería en sistemas 🎓(cursando 7to semestre), crecer en el sector tecnológico y dominar alguna que otra tecnologia<br>🎲  Dato curioso: En Python, el nombre del lenguaje no proviene de la serpiente, sino de la afición de su creador, Guido van Rossum, por la comedia británica Monty Python. Monty Python fue un grupo de comediantes británicos famoso por su programa de televisión llamado "Monty Python's Flying Circus", que se emitió en la década de 1970. El humor de Monty Python se caracterizó por ser absurdo, inteligente y a menudo irónico.<br>📗 Aun tengo mucho por aprender, pero aprendo facil y soy un gran aficionado por todo lo relacionado a la tecnologia.<br>:muscle:Experiencia mucha, certificada poca. 📫 No olvides ponerte en contacto conmigo <a href="mailto:cerivera005@gmail.com">cerivera005@gmail.com</a> o en visitar mi perfil en <a href="https://www.linkedin.com/in/cristian-eduardo-rivera-ardila-81ba2a1b1/" rel="nofollow">linkedin</a></p>
-
-###
-
-<h2 align="left">Trabajo con</h2>
-
-###
+### Experiencia y habilidades
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -34,11 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
+### Contacto
+
+-📫 Encuentrame en <a href="https://www.linkedin.com/in/cristian-eduardo-rivera-ardila-81ba2a1b1/" rel="nofollow">linkedin</a></p>
+-✉️ Contáctame por correo electrónico: <a href="mailto:cerivera005@gmail.com">cerivera005@gmail.com</a>
+-🤖 Muy pronto nuestro portafolio web. Esperalo..
+
 ###
-<h2 align="left">Por ultimo!</h2>
 
-<p align="left">No olvides visitar mi pagina <link> donde podras encontrar mas información personal y mis proyectos personales.</p>
-
-###
-
-<h2 align="center">Cuidate my friend!</h2>
+¡Gracias y cuídate!
