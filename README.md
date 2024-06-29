@@ -33,7 +33,7 @@
 ### Contacto
 
 -📫 Encuentrame en <a href="https://www.linkedin.com/in/cristian-eduardo-rivera-ardila-81ba2a1b1/" rel="nofollow">linkedin</a></p>
--✉️ Contáctame por correo electrónico: <a href="mailto:cerivera005@gmail.com">cerivera005@gmail.com</a>
+-✉️ Contáctame por correo electrónico: <a href="mailto:cerivera005@gmail.com">cerivera005@gmail.com</a></p>
 -🤖 Muy pronto nuestro portafolio web. Esperalo..
 
 ###
