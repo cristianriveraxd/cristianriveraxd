@@ -4,7 +4,7 @@
 
 - 🟡 Creando soluciones desde mi primera línea de código.
 - 📚 Actualmente explorando vision computacional, servidores, sistemas operativos basados en Debian y diseño web. 
-- 🧉 Estudiante de ingeniería en sistemas (7mo semestre).
+- 🧉 Estudiante de ingeniería en sistemas (8vo semestre).
 - 📗 Metas: Completar mi carrera universitaria, crecer profesionalmente en el sector tecnológico y dominar nuevas tecnologías.
 - 🐍 Dato curioso: En Python, el nombre del lenguaje no proviene de la serpiente, sino de la comedia británica Monty Python.
 
