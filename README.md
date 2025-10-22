@@ -3,9 +3,9 @@
 ### Sobre mí
 
 - 🟡 Creando soluciones desde mi primera línea de código.
-- 📚 Actualmente explorando vision computacional, servidores, sistemas operativos basados en Debian y diseño web. 
+- 📚 Actualmente explorando vision computacional, servidores, sistemas operativos basados en Debian, datos en la nube y diseño web. 
 - 🧉 Estudiante de ingeniería en sistemas (9vo semestre).
-- 📗 Metas: Completar mi carrera universitaria, crecer profesionalmente en el sector tecnológico y dominar nuevas tecnologías.
+- 📗 Metas: Completar mi carrera universitaria.
 - 🐍 Dato curioso: En Python, el nombre del lenguaje no proviene de la serpiente, sino de la comedia británica Monty Python.
 
 ### Experiencia y habilidades
